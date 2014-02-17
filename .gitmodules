@@ -1,0 +1,3 @@
+[submodule "DistThresholdCHOP"]
+	path = DistThresholdCHOP
+	url = git://github.com/t3kt/DistThresholdCHOP.git
