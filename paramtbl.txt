@@ -1,0 +1,8 @@
+name	default	mididev	midictl	global	label
+post_bloom_amount	0	bcr2000	s3	1	bloom
+post_bypass	0			1	
+post_echo_length	0.1	bcr2000	s1	1	echo length
+post_echo_mix	0	bcr2000	s2	1	echo mix
+post_stutterlength	0.3	bcr2000	s8	1	stutter length
+post_stutteron	0	bcr2000	b24	1	stutter on
+time_rate	.5	bcr2000	s25		time rate
