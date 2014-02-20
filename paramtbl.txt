@@ -8,8 +8,10 @@ post_stutteron	0	bcr2000	b24	1	stutter on
 post_contrast	0	bcr2000	s27	1	contrast
 post_saturation	.8	bcr2000	s23	1	saturation
 post_edgestrength	0	bcr2000	s30	1	edge strength
-post_colorspread_dist	0			1	color spread
+post_colorspread_dist	0	bcr2000	s5	1	color spread
 time_rate	.5	bcr2000	s25		time rate
 time_switch_on	0	bcr2000	b7		time switch on
 time_switch_rate	.5	bcr2000	s7		time switch rate
-
+mandala_resolution	.4	bcr2000	s9		mandala resolution
+web_warp_twist	.5	bcr2000	s13		web warp twist
+web_warp_scale	.4	bcr2000	s14		web warp scale
