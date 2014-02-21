@@ -1,6 +1,6 @@
 [submodule "DistThresholdCHOP"]
 	path = DistThresholdCHOP
-	url = git://github.com/t3kt/DistThresholdCHOP.git
+	url = https://github.com/t3kt/DistThresholdCHOP.git
 [submodule "shared"]
 	path = shared
-	url = git://github.com/t3kt/tektshared.git
+	url = https://github.com/t3kt/tektshared.git
