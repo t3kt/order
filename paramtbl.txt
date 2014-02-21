@@ -12,6 +12,8 @@ post_colorspread_dist	0	bcr2000	s5	1	color spread
 time_rate	.5	bcr2000	s25		time rate
 time_switch_on	0	bcr2000	b7		time switch on
 time_switch_rate	.5	bcr2000	s7		time switch rate
-mandala_resolution	.4	bcr2000	s9		mandala resolution
+mandala_spread	.4	bcr2000	s28		mandala spread
+web_resolution	.4	bcr2000	s9		thresh resolution
 web_warp_twist	.5	bcr2000	s13		web warp twist
 web_warp_scale	.4	bcr2000	s14		web warp scale
+web_spread	0	bcr2000	s29		web spread
