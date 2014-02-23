@@ -20,3 +20,4 @@ web_warp_twist	.5	bcr2000	s13		1	web warp twist
 web_warp_scale	.4	bcr2000	s14		1	web warp scale
 web_spread	0	bcr2000	s29		1	web spread
 web_rate	.5	bcr2000	s17		1	web rate
+web_pull	.5	bcr2000	s21		1	web pull
