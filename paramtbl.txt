@@ -1,22 +1,22 @@
-name	default	mididev	midictl	global	label
-post_bloom_amount	0	bcr2000	s3	1	bloom
-post_bypass	0			1	
-post_echo_length	0.1	bcr2000	s1	1	echo length
-post_echo_mix	0	bcr2000	s2	1	echo mix
-post_stutterlength	0.3	bcr2000	s8	1	stutter length
-post_stutteron	0	bcr2000	b24	1	stutter on
-post_contrast	0	bcr2000	s27	1	contrast
-post_saturation	.8	bcr2000	s23	1	saturation
-post_edgestrength	0	bcr2000	s30	1	edge strength
-post_colorspread_dist	0	bcr2000	s5	1	color spread
-time_rate	.5	bcr2000	s25		time rate
-time_switch_on	0	bcr2000	b7		time switch on
-time_switch_rate	.5	bcr2000	s7		time switch rate
-mandala_rate	.6	bcr2000	s18		mandala rate
-mandala_spread	.4	bcr2000	s28		mandala spread
-mandala_innerdensity	.5	bcr2000	s11		mandala inner density
-web_resolution	.4	bcr2000	s9		thresh resolution
-web_warp_twist	.5	bcr2000	s13		web warp twist
-web_warp_scale	.4	bcr2000	s14		web warp scale
-web_spread	0	bcr2000	s29		web spread
-web_rate	.5	bcr2000	s17		web rate
+name	default	mididev	midictl	global	smooth	label
+post_bloom_amount	0	bcr2000	s3	1	1	bloom
+post_bypass	0			1		
+post_echo_length	0.1	bcr2000	s1	1	1	echo length
+post_echo_mix	0	bcr2000	s2	1	1	echo mix
+post_stutterlength	0.3	bcr2000	s8	1		stutter length
+post_stutteron	0	bcr2000	b24	1		stutter on
+post_contrast	0	bcr2000	s27	1	1	contrast
+post_saturation	.8	bcr2000	s23	1	1	saturation
+post_edgestrength	0	bcr2000	s30	1	1	edge strength
+post_colorspread_dist	0	bcr2000	s5	1	1	color spread
+time_rate	.5	bcr2000	s25		1	time rate
+time_switch_on	0	bcr2000	b7			time switch on
+time_switch_rate	.5	bcr2000	s7		1	time switch rate
+mandala_rate	.6	bcr2000	s18		1	mandala rate
+mandala_spread	.4	bcr2000	s28		1	mandala spread
+mandala_innerdensity	.5	bcr2000	s11		1	mandala inner density
+web_resolution	.4	bcr2000	s9			thresh resolution
+web_warp_twist	.5	bcr2000	s13		1	web warp twist
+web_warp_scale	.4	bcr2000	s14		1	web warp scale
+web_spread	0	bcr2000	s29		1	web spread
+web_rate	.5	bcr2000	s17		1	web rate
