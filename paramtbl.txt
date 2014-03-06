@@ -14,7 +14,9 @@ time_switch_on	0	bcr2000	b7			time switch on
 time_switch_rate	.5	bcr2000	s7		1	time switch rate
 mandala_rate	.6	bcr2000	s18		1	mandala rate
 mandala_spread	.4	bcr2000	s28		1	mandala spread
-mandala_innerdensity	.5	bcr2000	s11		1	mandala inner density
+mandala_innerdensity	.5	bcr2000	s20		1	mandala inner density
+mandala_outerwarpscale	.1	bcr2000	s10		1	mandala outer warp scale
+mandala_outerwarppull	.1	bcr2000	s11		1	mandala outer warp pull
 mandala_balance	.5	bcr2000	s12		1	mandala balance
 mandala_opacity	.5	bcr2000	s15		1	mandala opacity
 web_resolution	.4	bcr2000	s9			thresh resolution
