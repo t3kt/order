@@ -17,7 +17,8 @@ mandala_spread	.4	bcr2000	s28		1	mandala spread
 mandala_innerdensity	.5	bcr2000	s20		1	mandala inner density
 mandala_outerwarpscale	.1	bcr2000	s10		1	mandala outer warp scale
 mandala_outerwarppull	.1	bcr2000	s11		1	mandala outer warp pull
-mandala_balance	.5	bcr2000	s12		1	mandala balance
+mandala_outerwarptwist	.5	bcr2000	s12		1	mandala outer warp twist
+mandala_balance	.5	bcr2000	s19		1	mandala balance
 mandala_opacity	.5	bcr2000	s15		1	mandala opacity
 web_resolution	.4	bcr2000	s9			thresh resolution
 web_warp_twist	.5	bcr2000	s13		1	web warp twist
