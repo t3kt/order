@@ -7,7 +7,6 @@ post_stutterlength	0.3	bcr2000	s8	1		stutter length
 post_stutteron	0	bcr2000	b24	1		stutter on
 post_contrast	0	bcr2000	s27	1	1	contrast
 post_saturation	.8	bcr2000	s23	1	1	saturation
-post_edgestrength	0	bcr2000	s30	1	1	edge strength
 post_colorspread_dist	0	bcr2000	s5	1	1	color spread
 time_rate	.5	bcr2000	s25		1	time rate
 time_switch_on	0	bcr2000	b7			time switch on
@@ -27,3 +26,5 @@ web_spread	0	bcr2000	s29		1	web spread
 web_rate	.5	bcr2000	s17		1	web rate
 web_pull	.5	bcr2000	s21		1	web pull
 web_opacity	.5	bcr2000	s16		1	web opacity
+web_postwarptwist	0	bcr2000	s31		1	post warp twist
+web_postwarpscale	0	bcr2000	s32		1	post warp scale
