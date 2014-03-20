@@ -1,30 +1,30 @@
-name	default	mididev	midictl	leapinput	leapswitch	global	smooth	label
-post_bloom_amount	0	bcr2000	s3			1	1	bloom
-post_bypass	0					1		
-post_echo_length	0.1	bcr2000	s1			1	1	echo length
-post_echo_mix	0	bcr2000	s2			1	1	echo mix
-post_stutterlength	0.3	bcr2000	s8			1		stutter length
-post_stutteron	0	bcr2000	b24			1		stutter on
-post_contrast	0	bcr2000	s27			1	1	contrast
-post_saturation	.8	bcr2000	s23			1	1	saturation
-post_colorspread_dist	0	bcr2000	s5			1	1	color spread
-time_rate	.5	bcr2000	s25				1	time rate
-time_switch_on	0	bcr2000	b7					time switch on
-time_switch_rate	.5	bcr2000	s7				1	time switch rate
-mandala_rate	.6	bcr2000	s18				1	mandala rate
-mandala_spread	.4	bcr2000	s28				1	mandala spread
-mandala_innerdensity	.5	bcr2000	s20				1	mandala inner density
-mandala_outerwarpscale	.1	bcr2000	s10				1	mandala outer warp scale
-mandala_outerwarppull	.1	bcr2000	s11				1	mandala outer warp pull
-mandala_outerwarptwist	.5	bcr2000	s12				1	mandala outer warp twist
-mandala_balance	.5	bcr2000	s19				1	mandala balance
-mandala_opacity	.5	bcr2000	s15				1	mandala opacity
-web_resolution	.4	bcr2000	s9					thresh resolution
-web_warp_twist	.5	bcr2000	s13	hand1:rz	hand1:tracking		1	web warp twist
-web_warp_scale	.4	bcr2000	s14	hand1/finger0:ty	hand1:tracking		1	web warp scale
-web_spread	0	bcr2000	s29				1	web spread
-web_rate	.5	bcr2000	s17				1	web rate
-web_pull	.5	bcr2000	s21				1	web pull
-web_opacity	.5	bcr2000	s16				1	web opacity
-web_postwarptwist	0	bcr2000	s31	hand0:rz	hand0:tracking		1	post warp twist
-web_postwarpscale	0	bcr2000	s32	hand0/finger0:ty	hand0:tracking		1	post warp scale
+name	default	mididev	midictl	leapinput	leapswitch	leapraw	global	smooth	label
+post_bloom_amount	0	bcr2000	s3				1	1	bloom
+post_bypass	0						1		post bypass
+post_echo_length	0.1	bcr2000	s1				1	1	echo length
+post_echo_mix	0	bcr2000	s2				1	1	echo mix
+post_stutterlength	0.3	bcr2000	s8				1		stutter length
+post_stutteron	0	bcr2000	b24				1		stutter on
+post_contrast	0	bcr2000	s27				1	1	contrast
+post_saturation	.8	bcr2000	s23				1	1	saturation
+post_colorspread_dist	0	bcr2000	s5				1	1	color spread
+time_rate	.5	bcr2000	s25					1	time rate
+time_switch_on	0	bcr2000	b7						time switch on
+time_switch_rate	.5	bcr2000	s7					1	time switch rate
+mandala_rate	.6	bcr2000	s18					1	mandala rate
+mandala_spread	.4	bcr2000	s28					1	mandala spread
+mandala_innerdensity	.5	bcr2000	s20					1	mandala inner density
+mandala_outerwarpscale	.1	bcr2000	s10					1	mandala outer warp scale
+mandala_outerwarppull	.1	bcr2000	s11					1	mandala outer warp pull
+mandala_outerwarptwist	.5	bcr2000	s12					1	mandala outer warp twist
+mandala_balance	.5	bcr2000	s19					1	mandala balance
+mandala_opacity	.5	bcr2000	s15					1	mandala opacity
+web_resolution	.4	bcr2000	s9						thresh resolution
+web_warp_twist	.5	bcr2000	s13	hand1:rz	hand1:tracking	1		1	web warp twist
+web_warp_scale	.4	bcr2000	s14	hand1/finger0:ty	hand1:tracking	1		1	web warp scale
+web_spread	0	bcr2000	s29					1	web spread
+web_rate	.5	bcr2000	s17					1	web rate
+web_pull	.5	bcr2000	s21					1	web pull
+web_opacity	.5	bcr2000	s16					1	web opacity
+web_postwarptwist	0	bcr2000	s31	hand0:rz	hand0:tracking	1		1	post warp twist
+web_postwarpscale	0	bcr2000	s32	hand0/finger0:ty	hand0:tracking	1		1	post warp scale
