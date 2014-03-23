@@ -5,8 +5,8 @@ post_echo_length	0.1	bcr2000	s1				1	1	echo length
 post_echo_mix	0	bcr2000	s2				1	1	echo mix
 post_stutterlength	0.3	bcr2000	s8				1		stutter length
 post_stutteron	0	bcr2000	b24				1		stutter on
-post_contrast	0	bcr2000	s27				1	1	contrast
-post_saturation	.8	bcr2000	s23				1	1	saturation
+post_contrast	0						1	1	contrast
+post_saturation	.8	bcr2000	s24				1	1	saturation
 post_colorspread_dist	0	bcr2000	s5				1	1	color spread
 time_rate	.5	bcr2000	s25					1	time rate
 time_switch_on	0	bcr2000	b7						time switch on
@@ -28,3 +28,5 @@ web_pull	.5	bcr2000	s21	hand1:tz	hand1:tracking	1		1	web pull
 web_opacity	.5	bcr2000	s16					1	web opacity
 web_postwarptwist	0	bcr2000	s31	hand0:rz	hand0:tracking	1		1	post warp twist
 web_postwarpscale	0	bcr2000	s32	hand0:ty	hand0:tracking	1		1	post warp scale
+web_threshmin	0	bcr2000	s22					1	web thresh min
+web_threshmax	.5	bcr2000	s23					1	web thresh max
