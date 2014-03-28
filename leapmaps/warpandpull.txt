@@ -1,7 +1,7 @@
 name	leapinput	leapswitch	leapraw
-mandala_innerdensity	hand0:tz	hand0:tracking	
-web_warp_twist	hand1:rz	hand1:tracking	1
-web_warp_scale	hand1:ty	hand1:tracking	1
-web_pull	hand1:tz	hand1:tracking	1
-web_postwarptwist	hand0:rz	hand0:tracking	1
-web_postwarpscale	hand0:ty	hand0:tracking	1
+mandala_innerdensity	handR:tz	handR:tracking	
+web_warp_twist	handL:rz	handL:tracking	1
+web_warp_scale	handL:ty	handL:tracking	1
+web_pull	handL:tz	handL:tracking	1
+web_postwarptwist	handR:rz	handR:tracking	1
+web_postwarpscale	handR:ty	handR:tracking	1
