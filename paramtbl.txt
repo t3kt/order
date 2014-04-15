@@ -33,3 +33,4 @@ web_postwarptwist	0	bcr2000	s31		1	post warp twist
 web_postwarpscale	0	bcr2000	s32		1	post warp scale
 web_threshmin	0	bcr2000	s22		1	web thresh min
 web_threshmax	.5	bcr2000	s23		1	web thresh max
+web_sourceindex	0					web source index
