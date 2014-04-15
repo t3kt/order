@@ -12,6 +12,8 @@ post_saturation	.8	bcr2000	s24	1	1	saturation
 time_rate	.5	bcr2000	s25			time rate
 time_switch_on	0					time switch on
 time_switch_rate	.5					time switch rate
+time_pulse_amount	.5			1		time pulse amount
+time_pulse_rate	.5			1		time pulse rate
 mandala_rate	.6	bcr2000	s18			mandala rate
 mandala_spread	.4	bcr2000	s28		1	mandala spread
 mandala_innerdensity	.5	bcr2000	s20		1	mandala inner density
