@@ -1,5 +1,5 @@
 name
 mandala
-octet
 mandala+octet
+octet
 hex
