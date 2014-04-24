@@ -22,7 +22,6 @@ mandala_outerwarppull	.1	bcr2000	s11		1	mandala outer warp pull
 mandala_outerwarptwist	.5	bcr2000	s12		1	mandala outer warp twist
 mandala_balance	.5	bcr2000	s19		1	mandala balance
 mandala_opacity	.5	bcr2000	s15		1	mandala opacity
-web_resolution	.4	bcr2000	s9			thresh resolution
 web_warp_twist	.5	bcr2000	s13		1	web warp twist
 web_warp_scale	.4	bcr2000	s14		1	web warp scale
 web_spread	0	bcr2000	s29		1	web spread
