@@ -14,13 +14,6 @@ time_switch_on	0					time switch on
 time_switch_rate	.5					time switch rate
 time_pulse_amount	.5	bcr2000	s26	1		time pulse amount
 time_pulse_rate	.5	bcr2000	s27	1		time pulse rate
-mandala_rate	.6	bcr2000	s18			mandala rate
-mandala_innerdensity	.5	bcr2000	s20		1	mandala inner density
-mandala_outerwarpscale	.1	bcr2000	s10		1	mandala outer warp scale
-mandala_outerwarppull	.1	bcr2000	s11		1	mandala outer warp pull
-mandala_outerwarptwist	.5	bcr2000	s12		1	mandala outer warp twist
-mandala_balance	.5	bcr2000	s19		1	mandala balance
-mandala_opacity	.5	bcr2000	s15		1	mandala opacity
 web_warp_twist	.5	bcr2000	s13		1	web warp twist
 web_warp_scale	.4	bcr2000	s14		1	web warp scale
 web_rate	.5	bcr2000	s17			web rate
@@ -31,4 +24,4 @@ web_postwarpscale	0	bcr2000	s32		1	post warp scale
 web_threshmin	0	bcr2000	s22		1	web thresh min
 web_threshmax	.5	bcr2000	s23		1	web thresh max
 web_sourceindex	0	bcr2000	s30			web source index
-web_sequence	0				web sequence	
+web_sequence	0					web sequence
