@@ -19,6 +19,7 @@ web_warp_scale	.4	bcr2000	s14		1	web warp scale
 web_rate	.5	bcr2000	s17			web rate
 web_pull	.5	bcr2000	s21		1	web pull
 web_opacity	.5	bcr2000	s16		1	web opacity
+web_pointsize	.5	bcr2000	s15		1	web point size
 web_postwarptwist	0	bcr2000	s31		1	post warp twist
 web_postwarpscale	0	bcr2000	s32		1	post warp scale
 web_threshmin	0	bcr2000	s22		1	web thresh min
