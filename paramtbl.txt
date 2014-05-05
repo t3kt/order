@@ -25,5 +25,4 @@ web_postwarpscale	0	bcr2000	s32		1	post warp scale
 web_threshmin	0	bcr2000	s22		1	web thresh min
 web_threshmax	.5	bcr2000	s23		1	web thresh max
 web_lengthlevel	0	bcr2000	s20		1	web length level
-web_sourceindex	0	bcr2000	s30			web source index
-web_sequence	0					web sequence
+web_geomode	0	bcr2000	s30			web geo mode
