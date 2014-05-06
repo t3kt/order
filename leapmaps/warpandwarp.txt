@@ -1,0 +1,6 @@
+name	leapinput	leapswitch	leapraw
+web_warp_twist	handL:rz	handL:tracking	1
+web_warp_scale	handL:ty	handL:tracking	1
+web_warp_secondarytwist	handL:tz	handL:tracking	1
+web_postwarptwist	handR:rz	handR:tracking	1
+web_postwarpscale	handR:ty	handR:tracking	1
