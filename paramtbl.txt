@@ -13,6 +13,7 @@ time_rate	.5	bcr2000	s25			time rate
 time_pulse_amount	.5	bcr2000	s26	1		time pulse amount
 time_pulse_rate	.5	bcr2000	s27	1		time pulse rate
 time_reverse	0	bcr2000	b9	1		time reverse
+time_zigzag	0	bcr2000	b10	1		time zigzag
 web_warp_twist	.5	bcr2000	s13		1	web warp twist
 web_warp_secondarytwist	0	bcr2000	s12		1	web warp secondary twist
 web_warp_scale	.4	bcr2000	s14		1	web warp scale
