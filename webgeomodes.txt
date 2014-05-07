@@ -2,4 +2,3 @@ name	source	sequence
 hex_a	hex_a	
 hex_b_clusterspread	hex_b	clusterspread
 hex_b_spin	hex_b	spin
-hex_b_steps	hex_b	steps
