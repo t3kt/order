@@ -1,0 +1,4 @@
+name	leapinput	leapswitch	leapraw
+post_echo_tapbalance	hand:ty	hand:tracking	1
+post_echo_length	hand:tz	hand:tracking	1
+post_echo_mix	hand:rz	hand:tracking	1

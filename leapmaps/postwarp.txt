@@ -1,0 +1,3 @@
+name	leapinput	leapswitch	leapraw
+web_postwarptwist	hand:rz	hand:tracking	1
+web_postwarpscale	hand:ty	hand:tracking	1

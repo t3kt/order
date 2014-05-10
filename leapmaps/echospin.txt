@@ -1,6 +1,0 @@
-name	leapinput	leapswitch	leapraw
-web_warp_twist	handR:rz	handL:tracking	1
-web_warp_scale	handR:ty	handL:tracking	1
-post_echo_tapbalance	handL:ty	handL:tracking	1
-post_echo_length	handL:tz	handR:tracking	1
-post_echo_mix	handL:rz	handR:tracking	1

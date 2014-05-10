@@ -1,4 +1,0 @@
-name	leapinput	leapswitch	leapraw
-post_echo_length	handL:tz	handL:tracking	1
-web_pull	handR:tz	handR:tracking	1
-time_rate	handL:ty	handL:tracking	1
