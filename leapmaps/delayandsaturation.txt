@@ -1,0 +1,3 @@
+name	leapinput	leapswitch	leapraw
+post_echo_length	hand:tz	hand:tracking	1
+post_saturation	hand:ry	hand:tracking	1
