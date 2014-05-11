@@ -1,0 +1,4 @@
+name	leapinput	leapswitch	leapraw
+web_geomodifier1	hand:rz	hand:tracking	1
+web_geomodifier2	hand:ty	hand:tracking	1
+web_geomodifier3	hand:tz	hand:tracking	1
