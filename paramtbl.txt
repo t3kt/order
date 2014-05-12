@@ -32,3 +32,4 @@ web_geomode	0	bcr2000	s30			web geo mode
 web_geomodifier1	.5	bcr2000	s9		1	web geo modifier 1
 web_geomodifier2	.5	bcr2000	s10		1	web geo modifier 2
 web_geomodifier3	.5	bcr2000	s11		1	web geo modifier 3
+general_overlay_opacity	0	bcr2000	s28		1	overlay opacity
