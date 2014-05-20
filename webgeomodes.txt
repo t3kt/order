@@ -3,3 +3,4 @@ hex_a	hex_a
 hex_b_clusterspread	hex_b	clusterspread
 hex_b_spin	hex_b	spin
 hex_b_spin2	hex_b	spin2
+hex_c	hex_c
