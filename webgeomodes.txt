@@ -3,4 +3,4 @@ hex_a	hex_a		1	1
 hex_b_clusterspread	hex_b	clusterspread	1	1
 hex_b_spin	hex_b	spin	1	1
 hex_b_spin2	hex_b	spin2	1	1
-hex_c	hex_c		.5	2
+hex_c	hex_c		.5	1.5
