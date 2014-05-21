@@ -1,6 +1,6 @@
-name	source	sequence
-hex_a	hex_a	
-hex_b_clusterspread	hex_b	clusterspread
-hex_b_spin	hex_b	spin
-hex_b_spin2	hex_b	spin2
-hex_c	hex_c
+name	source	sequence	rate
+hex_a	hex_a		1
+hex_b_clusterspread	hex_b	clusterspread	1
+hex_b_spin	hex_b	spin	1
+hex_b_spin2	hex_b	spin2	1
+hex_c	hex_c		.5
