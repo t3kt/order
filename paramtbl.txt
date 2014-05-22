@@ -12,6 +12,7 @@ post_saturation	.8	bcr2000	s24	1	1	saturation
 time_rate	.5	bcr2000	s25			time rate
 time_pulse_amount	.5	bcr2000	s26	1		time pulse amount
 time_pulse_rate	.5	bcr2000	s27	1		time pulse rate
+time_pulse_width	.5	bcr2000	s28	1		time pulse width
 time_reverse	0	bcr2000	b9	1		time reverse
 time_zigzag	0	bcr2000	b10	1		time zigzag
 time_rangemin	0	bcr2000	s18	1	1	time range min
@@ -32,4 +33,4 @@ web_geomode	0	bcr2000	s30			web geo mode
 web_geomodifier1	.5	bcr2000	s9		1	web geo modifier 1
 web_geomodifier2	.5	bcr2000	s10		1	web geo modifier 2
 web_geomodifier3	.5	bcr2000	s11		1	web geo modifier 3
-general_overlay_opacity	0	bcr2000	s28		1	overlay opacity
+general_overlay_opacity	0	bcr2000	s29		1	overlay opacity
