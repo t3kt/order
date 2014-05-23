@@ -17,6 +17,8 @@ Order is composed of several subsystems:
 * post-processing
 
 ## input and control systems
+The input and control systems handle various inputs, timing, etc. The ultimate output of these systems is a set of parameter values each ranging from 0..1 (though occasionally slightly outside that range).
+
 * input handling - routes MIDI and Leap Motion input to system parameters
 * control UI - control panel UI for viewing and editing parameters
 * audio I/O
@@ -24,19 +26,24 @@ Order is composed of several subsystems:
 * timing
 
 ## geometry systems
+The geometry systems start with patterns of overlapping simple shapes, and go through several layers of transformation to ultimately generate a set of line segments (and a set of their endpoints), which then is passed to the renderer. The entire geometry system is 2D (it's actually 3D but everything's Z coordinate is always 0).
 * generators
 * pre-theshold distortion
 * threshold
 * post-theshold distortion
 
-also other things...
-
 ## rendering
 The threshold connector lines use a basic wireframe material with a constant color, but with opacity that increases as the connectors get shorter.
+
 The connection points use a point sprite material with a circular gradient (basically a circle with a fuzzy edge that's slightly darker in the middle).
+
 There is a single camera that never moves.
+
 There is no lighting since there aren't any phong or other such materials.
+
 There is a renderer that renders because it enjoys rendering. It's quite happy.
 
 ## post-processing
+After the renderer produces a stream of images, that stream is fed through a series of post-processing effects.
+
 
