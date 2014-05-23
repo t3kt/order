@@ -12,7 +12,7 @@ see also http://t3kt.net/projects/order
 ## system structure
 Order is composed of several subsystems:
 * input and control systems
-* geometry systems
+* [geometry systems](#geometry-systems)
 * rendering
 * post-processing
 
@@ -49,7 +49,6 @@ After the renderer produces a stream of images, that stream is fed through a ser
 * stutter
 * feedback!
 
-### feedback
-The feedback effect is a loop where a frame is mixed with the previous frame and the output of that is fed back into it as the next "previous frame". When the opacity of the previous/feedback frames is low, this results in small trails behind anything that moves, which fade the further they get away from the original line. When the opacity is much higher (almost 100%), it would normally just end up eventually making everything white. To deal with this, the feedback image is processed with an edging effect, which effectively makes portions of it transparent, allowing it to mix without overwhelming the resulting image.
+   The feedback effect is a loop where a frame is mixed with the previous frame and the output of that is fed back into it as the next "previous frame". When the opacity of the previous/feedback frames is low, this results in small trails behind anything that moves, which fade the further they get away from the original line. When the opacity is much higher (almost 100%), it would normally just end up eventually making everything white. To deal with this, the feedback image is processed with an edging effect, which effectively makes portions of it transparent, allowing it to mix without overwhelming the resulting image.
 
 
