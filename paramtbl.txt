@@ -6,7 +6,7 @@ post_echo_length	0.1	codev2	s1	1	1	echo length
 post_echo_mix	0	codev2	s5	1	1	echo mix
 post_echo_tapbalance	.5			1	1	echo tap balance
 post_stutterlength	0.3	codev2	s29	1		stutter length
-post_stutteron	0	bcr2000	b24	1		stutter on
+post_stutteron	0	codev2	b29	1		stutter on
 post_contrast	0			1	1	contrast
 post_saturation	.8	codev2	s31	1	1	saturation
 post_feedback_amount	0	codev2	s17	1		feedback amount
@@ -16,8 +16,8 @@ time_rate	.5	codev2	s4			time rate
 time_pulse_amount	.5	codev2	s8	1		time pulse amount
 time_pulse_rate	.5	codev2	s12	1		time pulse rate
 time_pulse_width	.5	codev2	s16	1		time pulse width
-time_reverse	0	bcr2000	b9	1		time reverse
-time_zigzag	0	bcr2000	b10	1		time zigzag
+time_reverse	0	codev2	b38	1		time reverse
+time_zigzag	0	codev2	b39	1		time zigzag
 time_rangemin	0	codev2	s7	1	1	time range min
 time_rangemax	1	codev2	s11	1	1	time range max
 web_warp_twist	.5	codev2	s18		1	web warp twist
