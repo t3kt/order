@@ -1,40 +1,40 @@
 name	default	mididev	midictl	global	smooth	label
-post_bloom_amount	0	bcr2000	s3	1	1	bloom
-post_bloom_distance	0	bcr2000	s4	1	1	bloom distance
+post_bloom_amount	0	codev2	s9	1	1	bloom
+post_bloom_distance	0	codev2	s13	1	1	bloom distance
 post_bypass	0			1		post bypass
-post_echo_length	0.1	bcr2000	s1	1	1	echo length
-post_echo_mix	0	bcr2000	s2	1	1	echo mix
+post_echo_length	0.1	codev2	s1	1	1	echo length
+post_echo_mix	0	codev2	s5	1	1	echo mix
 post_echo_tapbalance	.5			1	1	echo tap balance
-post_stutterlength	0.3	bcr2000	s8	1		stutter length
+post_stutterlength	0.3	codev2	s29	1		stutter length
 post_stutteron	0	bcr2000	b24	1		stutter on
 post_contrast	0			1	1	contrast
-post_saturation	.8	bcr2000	s24	1	1	saturation
-post_feedback_amount	0	bcr2000	s5	1		feedback amount
-post_feedback_twist	0	bcr2000	s7	1		feedback twist
-post_feedback_scale	.2	bcr2000	s6	1		feedback scale
-time_rate	.5	bcr2000	s25			time rate
-time_pulse_amount	.5	bcr2000	s26	1		time pulse amount
-time_pulse_rate	.5	bcr2000	s27	1		time pulse rate
-time_pulse_width	.5	bcr2000	s28	1		time pulse width
+post_saturation	.8	codev2	s31	1	1	saturation
+post_feedback_amount	0	codev2	s17	1		feedback amount
+post_feedback_twist	0	codev2	s25	1		feedback twist
+post_feedback_scale	.2	codev2	s21	1		feedback scale
+time_rate	.5	codev2	s4			time rate
+time_pulse_amount	.5	codev2	s8	1		time pulse amount
+time_pulse_rate	.5	codev2	s12	1		time pulse rate
+time_pulse_width	.5	codev2	s16	1		time pulse width
 time_reverse	0	bcr2000	b9	1		time reverse
 time_zigzag	0	bcr2000	b10	1		time zigzag
-time_rangemin	0	bcr2000	s18	1	1	time range min
-time_rangemax	1	bcr2000	s19	1	1	time range max
-web_warp_twist	.5	bcr2000	s13		1	web warp twist
-web_warp_secondarytwist	0	bcr2000	s12		1	web warp secondary twist
-web_warp_scale	.4	bcr2000	s14		1	web warp scale
-web_rate	.5	bcr2000	s17			web rate
-web_pull	.5	bcr2000	s21		1	web pull
-web_pull_alt	0	bcr2000	s20		1	web pull alt
-web_opacity	.5	bcr2000	s16		1	web opacity
-web_pointsize	.5	bcr2000	s15		1	web point size
-web_postwarptwist	0	bcr2000	s31		1	post warp twist
-web_postwarpscale	0	bcr2000	s32		1	post warp scale
-web_threshmin	0	bcr2000	s22		1	web thresh min
-web_threshmax	.5	bcr2000	s23		1	web thresh max
+time_rangemin	0	codev2	s7	1	1	time range min
+time_rangemax	1	codev2	s11	1	1	time range max
+web_warp_twist	.5	codev2	s18		1	web warp twist
+web_warp_secondarytwist	0	codev2	s14		1	web warp secondary twist
+web_warp_scale	.4	codev2	s22		1	web warp scale
+web_rate	.5	codev2	s3			web rate
+web_pull	.5	codev2	s19		1	web pull
+web_pull_alt	0	codev2	s15		1	web pull alt
+web_opacity	.5	codev2	s30		1	web opacity
+web_pointsize	.5	codev2	s26		1	web point size
+web_postwarptwist	0	codev2	s28		1	post warp twist
+web_postwarpscale	0	codev2	s32		1	post warp scale
+web_threshmin	0	codev2	s23		1	web thresh min
+web_threshmax	.5	codev2	s27		1	web thresh max
 web_lengthlevel	0				1	web length level
-web_geomode	0	bcr2000	s30			web geo mode
-web_geomodifier1	.5	bcr2000	s9		1	web geo modifier 1
-web_geomodifier2	.5	bcr2000	s10		1	web geo modifier 2
-web_geomodifier3	.5	bcr2000	s11		1	web geo modifier 3
-general_overlay_opacity	0	bcr2000	s29		1	overlay opacity
+web_geomode	0	codev2	s24			web geo mode
+web_geomodifier1	.5	codev2	s2		1	web geo modifier 1
+web_geomodifier2	.5	codev2	s6		1	web geo modifier 2
+web_geomodifier3	.5	codev2	s10		1	web geo modifier 3
+general_overlay_opacity	0	codev2	s20		1	overlay opacity
