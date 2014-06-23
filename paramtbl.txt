@@ -12,6 +12,8 @@ post_saturation	.8	codev2	s31	1	1	saturation
 post_feedback_amount	0	codev2	s17	1		feedback amount
 post_feedback_twist	0	codev2	s25	1		feedback twist
 post_feedback_scale	.2	codev2	s21	1		feedback scale
+post_feedback_hueamount	0			1		feedback hue amount
+post_feedback_hueshift	0			1		feedback hue shift
 time_rate	.5	codev2	s4			time rate
 time_pulse_amount	.5	codev2	s8	1		time pulse amount
 time_pulse_rate	.5	codev2	s12	1		time pulse rate
