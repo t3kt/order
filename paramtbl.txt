@@ -39,4 +39,3 @@ web_geomode	0	codev2	s24			web geo mode
 web_geomodifier1	.5	codev2	s2		1	web geo modifier 1
 web_geomodifier2	.5	codev2	s6		1	web geo modifier 2
 web_geomodifier3	.5	codev2	s10		1	web geo modifier 3
-general_overlay_opacity	0	codev2	s20		1	overlay opacity
